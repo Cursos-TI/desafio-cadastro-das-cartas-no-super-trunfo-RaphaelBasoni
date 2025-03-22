@@ -90,7 +90,6 @@ int main()
     printf("Área: %.2f Km² \n\n", area2);
     
     printf("Entre o PIB (Produto Interno Bruto) da cidade : ");
-    getchar();
     scanf("%f", &pib2);
     printf("PIB: R$%.2f Bilhões de Reais\n\n", pib2);
     
