@@ -25,7 +25,7 @@ int main()
          getchar(); 
          fgets(cidade,50,stdin);  
          printf("Cidade: %s \n", cidade);
-
+ 
          printf("Entre o número de habitantes da cidade: ");
          scanf("%lu", &populacao);
          printf("População: %lu \n\n", populacao);
